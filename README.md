@@ -22,4 +22,4 @@ This Assignment is run by a two notebook files ```task1.ipynb``` and ```task2.ip
    pip3 install -r requirements.txt
    ```
 
-3. Finally, Run the ```assignment-1.ipynb``` file [In ```Jupyter notebook``` or ```colab```]
+3. Finally, Run the ```task-1.ipynb``` and ```task-2.ipynb``` file [In ```Jupyter notebook``` or ```colab```]
